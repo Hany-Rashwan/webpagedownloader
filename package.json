@@ -1,0 +1,22 @@
+{
+  "name": "pagecrapper",
+  "version": "1.0.0",
+  "description": "download web pages",
+  "main": "downloads.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hany-Rashwan/webpagedownloader.git"
+  },
+  "author": "Hany Rashwan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hany-Rashwan/webpagedownloader/issues"
+  },
+  "homepage": "https://github.com/Hany-Rashwan/webpagedownloader#readme",
+  "dependencies": {
+    "uuid": "^3.2.1"
+  }
+}
